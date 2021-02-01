@@ -1,0 +1,20 @@
+id,rahlfs_sig,name,date,desc,institution,institution_city,institution_country,iiif
+1,A,Alexandrinus,450,"the complete text of the entire Greek Bible (according to the Alexandrian canon) - leaving only five fragments - and 3 and 4 Maccabees, Odes of Solomon, Psalm 151, and two Epistles of Clement","British Library, Royal 1 D. V–VIII",London,U. Kingdom,null
+2,B,Vaticanus,350,contains Gen 46:28 to Heb 9:14,"Vatican Library, Gr. 1209",Vatican City,Italy,null
+3,C,Ephraemi,450,"fragments, Job, Pro, Ec, Ca, Wis, and Sirach survived; NT","Bibliothèque nationale de France, Gr. 9",Paris,Francia,null
+4,D,Codex Cottonianus,5th/6th century,"burned in 1731, kept a list of lessons from Genesis.","BL, Otto B VI",London,U. Kingdom,null
+5,F,Codex Ambrosiano A 147,5th century,Genesis 31:15 - Joshua 12:12,"Biblioteca Ambrosiana, A. 147 inf.",Milan,Italy,null
+6,G,Codex Colberto-Sarravianus,4th/5th century,Genesis 31: 5 - Judges 21:12,"Bibl. Uniw., Voss. graec. in qu. 8; BnF, Grec 17; BNR, Gr. 3",Leiden; Paris; Petersburg,Netherlands; Francia; Russia,null
+7,K,Fragment of Leipzig,7th/8th century,Numbers - Judges,"Bibl. Uni., Gr. 2; RBN Gr. 26",Leipzig; Petersburg,Germany; Russia,null
+8,L,Vienna Genesis,5th/6th century,Genesis with gaps,"Austrian National Library, Theol. gr. 31",Vienna,Austria,null
+9,M,Codex Coislinianus,7th century,"1, 2, 3 Kings","BNF, Coisl. 1",Paris,Francia,null
+10,Q,Codex Marchalianus,7th century,Prophets: contains minores and majores,"Vatican Library, Gr. 2125",Vatican City,Italy,null
+11,R,Codex Veronensis,6th century,Ps. Odes,"Bibl. Capit., I",Verona,Italy,null
+12,S,Sinaiticus,350,"incl. the Greek text of the entire Bible and the Letter of Pseudo-Barnabas and the Shepherd of Hermas; missing Gen 1:1–46, 28; Ps 105:27–137:6;","BL, Add. 43725; Leipzig University, Gr. 1; RBN, Gr. 2; Gr. 259; Gr. 843; Fonds. d. Ges. f. alte Lit., Oct 156; Neus Slg. ΜΓ 1",London; Leipzig; Petersburg; Sinai,U. Kingdom; Germany; Russia; Egypt,null
+13,T,Codex Turicensis,7th century,Ps. Odes with gaps,"Zentralbibl., RP 1",Zürich,Switzerland,null
+14,U,Fragments Londinensis,7th century,Ps 10:2-18:6; 20:14-34:6,"BL, P. Inv. Nr. 37",London,U. Kingdom,null
+15,N / V[7],Codex Basiliano-Vaticanus + Codex Venetus,8th century,Bible with gaps,"Vatican Library, Vat. gr. 2106; Bibl. Marc. Gr. 1",Vatican City,Italy,null
+16,W,Washingtoniensis,3rd century,Minor prophets with gaps,"SIL Freer Gall., Ms. V","Washington, D.C.",United States,null
+17,WI,Codex Freer Greek MS. V,5th century,zawiera Deut 5:16–16:18; Jz 3:3–4:10,"SIL Freer Gall., Inv. Nr. 06.292","Washington, D.C.",United States,null
+18,Z,Fragment Tischendorfianus,900,"Jg 16:29-21:5 (with gaps)III Kings 2:19-8:33, 21:26-39III Kings 8:58-9:1Ps 8-37 (with gaps)Ez 1:9-2:5, 3:1-9:4, 22:7-26:11, 28:7-16, 35:5-48:3(with gaps)Ez 36:20-37:14, 41:25-43:18, 47:19-48:4 (with gaps), Dan 3:2-15","Vatican Library, Vat. syr. 162",Vatican City;London,U. Kingdom,null
+19,Z,Fragment Tischendorfianus,4th4th5th/6th6th7th/8th6th,"Jg 16:29-21:5 (with gaps)III Kings 2:19-8:33, 21:26-39III Kings 8:58-9:1Ps 8-37 (with gaps)Ez 1:9-2:5, 3:1-9:4, 22:7-26:11, 28:7-16, 35:5-48:3(with gaps)Ez 36:20-37:14, 41:25-43:18, 47:19-48:4 (with gaps), Dan 3:2-15","Vatican Library, Vat. syr. 162;BL, Add 14665;ZI;ZII;ZIII;ZIV;ZV;ZVI",Vatican City;London,U. Kingdom,null
