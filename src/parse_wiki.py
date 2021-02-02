@@ -14,7 +14,6 @@ soup = BeautifulSoup(wiki_source.text, 'lxml')
 
 tables = soup.findAll("table", {"class":"wikitable sortable"})
 
-# The first table contains the Uncials = tables[0]
 output_rows = []
 for table_row in tables[0].findAll('tr'):
     columns = table_row.findAll('td')
